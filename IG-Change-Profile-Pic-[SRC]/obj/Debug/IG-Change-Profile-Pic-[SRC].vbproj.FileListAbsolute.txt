@@ -1,0 +1,11 @@
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\bin\Debug\IG-Change-Profile-Pic-[SRC].exe.config
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\bin\Debug\IG-Change-Profile-Pic-[SRC].exe
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\bin\Debug\IG-Change-Profile-Pic-[SRC].pdb
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\bin\Debug\IG-Change-Profile-Pic-[SRC].xml
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG_Change_Profile_Pic__SRC_.Form1.resources
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG_Change_Profile_Pic__SRC_.Resources.resources
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG-Change-Profile-Pic-[SRC].vbproj.GenerateResource.cache
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG-Change-Profile-Pic-[SRC].vbproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG-Change-Profile-Pic-[SRC].exe
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG-Change-Profile-Pic-[SRC].xml
+C:\Users\Nour\source\repos\IG-Change-Profile-Pic-[SRC]\IG-Change-Profile-Pic-[SRC]\obj\Debug\IG-Change-Profile-Pic-[SRC].pdb
