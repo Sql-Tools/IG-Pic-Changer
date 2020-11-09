@@ -3,4 +3,4 @@ Simple [SRC] Changing Profile Pic On Instagram[From Folder(Many Photos)Up To Unl
 
 Simple Look : 
 
-![alt text](https://github.com/Sql-Tools/Explore-Comment/blob/main/SimplePreview2.PNG)
+![alt text](https://github.com/Sql-Tools/IG-Pic-Changer/blob/main/SimplePreview2.PNG)
